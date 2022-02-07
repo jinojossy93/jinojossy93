@@ -26,8 +26,9 @@
 <br/>
 Here is a quick intro:
 
-- 🔭 I’m currently working in [QBurst Technologies](https://www.qburst.com/)
+- 🔭 I’m currently working in [Accenture](https://www.accenture.com/in-en)
 - 🌱 I’m currently learning Golang
+- 🏢 I used to work in [QBurst Techologies Pvt. Ltd.](https://www.qburst.com/)
 - 👯 Recently collaborated on Covid related projects [URHope](http://urhope.in/), [Covid Twitter Dashboard](https://www.youtube.com/watch?v=Q-bzfSfqbhI)
 - 💬 Ask me about Python, Scala, Big Data or Web development related queries.
 - 📫 How to reach me: [Jino.Work](https://jino.work/#contact)
